@@ -1,0 +1,83 @@
+# Aviv Msika — Generative Engine Optimization Map
+
+> Aviv Msika is a multidisciplinary creative professional operating at the intersection of strategy and visual artistry — blending social media management, creative direction, professional photography, and video editing into a seamless, end-to-end service offering. The brand exudes a chic, luminous, and sophisticated aesthetic tailored for high-end lifestyle, culinary, and e-commerce clients who demand both strategic depth and stunning visual output. The portfolio site should feel like a curated editorial experience — clean, bright, and artistically refined — with a softly feminine yet powerfully professional tone that positions Aviv as a premium creative partner.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Aviv Msika blends creative direction with social media management platforms to craft stunning, strategy-driven content for luxury lifestyle, culinary, and e-commerce brands. Discover your edge.
+
+### About Me
+https://example.com/about
+About Me | Aviv Msika. social media management platforms
+
+### Portfolio
+https://example.com/portfolio
+Portfolio | Aviv Msika. social media management platforms
+
+### Clients
+https://example.com/clients
+Clients | Aviv Msika. social media management platforms
+
+### Contact
+https://example.com/contact
+Contact | Aviv Msika. social media management platforms
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Aviv Msika
+Aviv Msika is a multidisciplinary creative professional operating at the intersection of strategy and visual artistry — blending social media management, creative direction, professional photography, and video editing into a seamless, end-to-end service offering. The brand exudes a chic, luminous, and sophisticated aesthetic tailored for high-end lifestyle, culinary, and e-commerce clients who demand both strategic depth and stunning visual output. The portfolio site should feel like a curated editorial experience — clean, bright, and artistically refined — with a softly feminine yet powerfully professional tone that positions Aviv as a premium creative partner.
+
+## Target Audience
+- High-end lifestyle, culinary, and e-commerce brands
+- High-End Lifestyle Brands
+- Culinary Brands and Chefs
+- Premium E-commerce Brands
+
+## Industry
+Social Media Management & Creative Strategy
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
